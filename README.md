@@ -1,4 +1,4 @@
-# mean-field-learning
+Mean-Field Learning
 
 We want to find the following latent binary variables that are used to generate a bunch of 4x4 images.
 
